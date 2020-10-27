@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'test-git';
   title2 = '';
   title3 = '';
+  title4 = '';
 }
